@@ -21,7 +21,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 
 ### 🖥️ Backend Development
 - 🧠 **Frameworks:** NestJS • Express • Node.js
-- 🌐 **Networking:** Colyseus • LiteNetLib (Custom Server Transport)  
+- 🌐 **Networking:** Colyseus • LiteNetLib (Custom Server Transport) • FishNet 
 - 🗄️ **Databases:** PostgreSQL • MongoDB • Redis 
 - 🐳 **DevOps:** Docker • Docker Compose • Docker Swarm • Nginx
 - ☁️ **Architecture:** Microservices • REST APIs • WebSocket • Cloud Deployment • NATS 
