@@ -41,7 +41,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 ---
 
 ## 🏆 GitHub Achievements  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=napakornsk&column=7&theme=darkhub&no-bg=true&no-frame=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=surakanK&column=7&theme=darkhub&no-bg=true&no-frame=true)
 
 ---
 
