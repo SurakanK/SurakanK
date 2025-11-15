@@ -24,7 +24,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 - 🌐 **Networking:** Colyseus • LiteNetLib (Custom Server Transport) • FishNet 
 - 🗄️ **Databases:** PostgreSQL • MongoDB • Redis 
 - 🐳 **DevOps:** Docker • Docker Compose • Docker Swarm • Nginx
-- ☁️ **Architecture:** Microservices • REST APIs • WebSocket • Cloud Deployment • NATS 
+- ☁️ **Architecture:** Microservices • REST APIs • WebSocket • Cloud Deployment • NATS • AWS (EC2 • S3)
 
 ---
 ### 📱 Application Development
