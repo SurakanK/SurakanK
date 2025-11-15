@@ -47,8 +47,8 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 
 ## 🔗 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/napakorn-sukkasem-808765260)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surakan-kasurong-311530302/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surakan.oop@gmail.com)  
-![Portfolio]([https://img.shields.io/badge/Portfolio-Under%20Development-grey?style=for-the-badge](https://sites.google.com/view/surakan-portfolio/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/surakan-portfolio/)
 
 ---
