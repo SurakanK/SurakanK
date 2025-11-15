@@ -39,6 +39,21 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 
 ---
 
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colyseus-1F75FE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteNetLib-444444?style=for-the-badge&logoColor=white" />
+</p>
+---
+
 ## 🔗 Connect With Me  
 
 <p align="center">
