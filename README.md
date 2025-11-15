@@ -13,7 +13,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   - Open World Systems & Scene Streaming  
   - Combat, AI, and Inventory Systems  
   - Addressables Optimization & Editor Tools
- - 🧱 **Programming Architecture:**  
+- 🧱 **Programming Architecture:**  
   - Object-Oriented Programming (OOP)  
   - Design Patterns: Singleton • Factory • Observer • Command • State • Strategy  
   - Event-Driven Systems & Dependency Injection 
