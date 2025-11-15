@@ -15,7 +15,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   - Addressables Optimization & Editor Tools
 - 🧱 **Programming Architecture:**  
   - Object-Oriented Programming (OOP)  
-  - Design Patterns: Singleton • Factory • Observer • Command • State • Strategy  
+  - Design Patterns: Singleton • Factory • Observer • Command • State • Strategy • Pooling  
   - Event-Driven Systems & Dependency Injection 
 ---
 
