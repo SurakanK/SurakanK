@@ -39,22 +39,6 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 
 ---
 
-## 🔗 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/surakan-kasurong-311530302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:surakan.oop@gmail.com">
-    <img src="https://img.shields.io/badge/Email-surakan.oop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://sites.google.com/view/surakan-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 <p align="center">
@@ -96,4 +80,20 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/surakan-kasurong-311530302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:surakan.oop@gmail.com">
+    <img src="https://img.shields.io/badge/Email-surakan.oop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://sites.google.com/view/surakan-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
