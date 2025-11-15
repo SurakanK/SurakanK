@@ -17,11 +17,11 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 ---
 
 ### 🖥️ Backend Development
-- 🧠 **Frameworks:** NestJS • Express • Node.js  
+- 🧠 **Frameworks:** NestJS • Express • Node.js
 - 🌐 **Networking:** Colyseus • LiteNetLib (Custom Server Transport)  
-- 🗄️ **Databases:** PostgreSQL • MongoDB  
-- 🐳 **DevOps:** Docker • Docker Compose • Docker Swarm • Nginx  
-- ☁️ **Architecture:** Microservices • REST APIs • WebSocket • Cloud Deployment  
+- 🗄️ **Databases:** PostgreSQL • MongoDB • Redis 
+- 🐳 **DevOps:** Docker • Docker Compose • Docker Swarm • Nginx
+- ☁️ **Architecture:** Microservices • REST APIs • WebSocket • Cloud Deployment • NATS 
 
 ---
 ### 📱 Application Development
@@ -69,7 +69,8 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Colyseus-1F75FE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LiteNetLib-444444?style=for-the-badge&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white" />
+
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
