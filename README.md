@@ -46,6 +46,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 ---
 
 ## 🔗 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/surakan-kasurong-311530302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -56,4 +57,4 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   <a href="https://sites.google.com/view/surakan-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-</p>)
+</p>
