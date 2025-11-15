@@ -9,7 +9,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 ### 🧩 Game Development Stack
 - 🎮 **Engines:** Unity • Cocos Creator • Roblox Studio  
 - ⚙️ **Specialties:**  
-  - Multiplayer Networking (**LiteNetLib**, **Colyseus**)  
+  - Multiplayer Networking (**LiteNetLib**, **Colyseus**, **FishNet**)  
   - Open World Systems & Scene Streaming  
   - Combat, AI, and Inventory Systems  
   - Addressables Optimization & Editor Tools
@@ -53,6 +53,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Colyseus-1F75FE?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LiteNetLib-444444?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FishNet-2E8B57?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats.io&logoColor=white" />
 
   <!-- Databases -->
