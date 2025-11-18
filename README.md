@@ -33,7 +33,7 @@ Currently developing an ambitious **FPS Shooting Online Open World RPG Game** wi
 ---
 
 ### 💻 Languages
-- C# • TypeScript • JavaScript • Python • Swift • Luau  
+- C# • TypeScript • JavaScript • Python • Swift • Lua  
 
 ---
 
